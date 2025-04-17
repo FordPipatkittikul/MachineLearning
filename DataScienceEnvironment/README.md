@@ -45,7 +45,7 @@ For more on sharing an environment, check out the [Conda documentation on sharin
 
 Finally, to create an environment called env_from_file from a .yml file called environment.yml, you can run the command:
 
-conda env create --file environment.yml --name env_from_file
+`conda env create --file environment.yml --name env_from_file`
 
 For more on creating an environment from a .yml file, check out the [Conda documentation on creating an environment from a .yml file.](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
