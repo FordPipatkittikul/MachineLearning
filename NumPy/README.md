@@ -25,3 +25,19 @@ There is a process called vectorization. Vectorization(a linear transformation w
     result = a + b
 
 NumPy achieves vectorization through a process called broadcasting(NumPy's smart way of making arrays with different shapes work together during operations.).
+
+# math concept
+
+**Standard Deviation**:
+
+standard deviation is a measure of how spread out a group of numbers is from the mean.
+
+Variance = measure of the average degree to which each number is different to the mean.
+
+Higher variance = wide range of numbers
+
+Lower variance = lower range of numbers
+
+Standard Deviation = square root of Variance
+
+https://www.mathsisfun.com/data/standard-deviation.html
